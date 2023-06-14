@@ -8,7 +8,7 @@ public class U5S3G3DattiloDomenicoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(U5S3G3DattiloDomenicoApplication.class, args);
-		system.out.println("merge in master ");
+		system.out.println("merge con conflitti");
 	}
 
 }
